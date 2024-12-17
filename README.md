@@ -1,3 +1,20 @@
+## Descripción
+
+Este proyecto es una aplicación de escritorio que permite gestionar tareas. El usuario puede agregar nuevas tareas, marcar tareas como completadas y eliminarlas de la lista. Cada tarea tiene un título y una descripción. El estado de la tarea (completada o pendiente) también se muestra en la lista.
+
+estión de Tareas en Python
+
+**Descripción**: Esta es una aplicación de gestión de tareas desarrollada en Python que permite a los usuarios agregar, marcar como completadas y eliminar tareas de una lista. 
+Todo se maneja a través de una interfaz gráfica utilizando la biblioteca `Tkinter`, lo que permite una experiencia de usuario simple y eficiente. 
+
+### Características
+
+- **Agregar Tareas**: Permite al usuario agregar nuevas tareas con un título y una descripción.
+- **Marcar Tareas como Completadas**: Puedes marcar las tareas como completadas para llevar un control.
+- **Eliminar Tareas**: Las tareas pueden ser eliminadas de la lista una vez completadas o ya no sean necesarias.
+- **Interfaz Gráfica Simple**: La interfaz está construida con `Tkinter` para que sea fácil de usar y accesible para todos.
+
+
 La primera pantalla muestra un formulario de login. Aunque no era parte del proyecto original, se añadió de forma opcional para mejorar la experiencia visual y la presentación general.
 ![Screenshot 2024-12-16 161119](https://github.com/user-attachments/assets/df9de943-6b0b-4e46-8630-dca2df82843c)
 
